@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>${title}</h1>
+<h3>${abstract}</h3>
+<a href=${nyt_url}>New York Times</a>
+<p>${text}</p>
+
+</body>
+</html>
