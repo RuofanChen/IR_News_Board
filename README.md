@@ -11,4 +11,4 @@ To run this jupyter notebook, you need to download the data from the provided li
 Please note:  
 
 For safety reason, the api key of Mailchimp and email key is not provided in the code. But you can create your own one to test the functions.   
-If you have any questions about this project, feel free to email us at ruofan.chen19@gmail.com.
+If you have any questions about this project, feel free to email us at ruofan.chen19@gmail.com, swu6@wpi.edu.
