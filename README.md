@@ -1,4 +1,4 @@
-# IR_News_Board  
+# Newsboard Recommender System 
   
 data link: https://drive.google.com/file/d/1qVeMlehhn3W9OpOZ854GGOIitbbpX7jb/view?usp=sharing
 
