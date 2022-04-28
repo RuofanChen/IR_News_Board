@@ -1,12 +1,21 @@
 # Newsboard Recommender System 
   
-data link: https://drive.google.com/file/d/1qVeMlehhn3W9OpOZ854GGOIitbbpX7jb/view?usp=sharing
+## Our website has an introduction about this project, please see: https://sites.google.com/view/newsbaordrecommender/home  
 
-Our website has an introduction about this project, please see: https://sites.google.com/view/newsbaordrecommender/home
+### Data   
+link: https://drive.google.com/file/d/1qVeMlehhn3W9OpOZ854GGOIitbbpX7jb/view?usp=sharing  
+this compressed folder includes the crawled news and some code generated files.
   
-The code is in the newsrec.ipynb.  
+MIND data: https://msnews.github.io/ training set.  
 
-To run this jupyter notebook, you need to download the data from the provided link above, as well as a Mailchimp account, an email account.  
+
+### Function  
+The code is in the newsrec.ipynb.  
+  
+### Prerequisite
+To run this jupyter notebook, you do not need to download the data from the provided link above, but we recommend you to download as it provide the raw crawled news data from NYT API, and carwling news cost long time. But training set of MIND need to be downloaded, to run the code you will also need a Mailchimp account for building a user signup page and generating survey to collect user feedback, an email account for sending news.  
+ 
+We also provide the code for generating news website which hosting on AWS S3. please go to folder generate_new_url.
   
 Please note:  
 
